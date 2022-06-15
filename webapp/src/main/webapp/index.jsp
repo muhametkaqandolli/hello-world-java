@@ -3,11 +3,7 @@
     <h1>This is a sample webapp to demonstrate DevOps pipelines</h1>
     <h1>This is a header 1</h1>
     <h2>This is a header 2</h2>
-    <h3>This is a header 3</h3>
-    <h4>This is a header 4</h4>
-    <h5>This is a header 5</h5>
-    <h6>This is a header 6</h6>
-    <p>This is a paragraph</p>
+
     <!-- <p>Please fill in this form to create an account.</p>
     <hr>
 
