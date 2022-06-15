@@ -6,6 +6,7 @@
     <h3>This is a header 3</h3>
     <h4>This is a header 4</h4>
     <h5>This is a header 5</h5>
+    <h6>This is a header 6</h6>
     <!-- <p>Please fill in this form to create an account.</p>
     <hr>
 
